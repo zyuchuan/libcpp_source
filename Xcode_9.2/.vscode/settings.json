@@ -21,6 +21,10 @@
         "string": "cpp",
         "__functional_base": "cpp",
         "type_traits": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "array": "cpp",
+        "complex": "cpp",
+        "iterator": "cpp",
+        "initializer_list": "cpp"
     }
 }
