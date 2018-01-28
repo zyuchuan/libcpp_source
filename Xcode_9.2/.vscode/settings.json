@@ -25,6 +25,7 @@
         "array": "cpp",
         "complex": "cpp",
         "iterator": "cpp",
-        "initializer_list": "cpp"
+        "initializer_list": "cpp",
+        "__tuple": "cpp"
     }
 }
